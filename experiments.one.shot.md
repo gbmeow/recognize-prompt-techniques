@@ -18,3 +18,18 @@ Are there any comparisons or analogies used to provide context or a better under
 Does the prompt mention any particular person, event, or object that serves to illustrate the main subject or topic? just answer "Yes" or "No"
 
 ---> No
+
+Please describe the Romulan race as depicted on Star Trek: The Next Generation in two sentences. 
+
+Describe them like this: 
+- Klingons: Aggressive, belligerent, but fiercely loyal. When in conflict: their lust for battle can be used to direct them, as can their sense of honor.  
+
+would you say that the above prompt would qualify/ or answer at least one of the below question? please answer just "Yes" or "No"
+
+Does the prompt contain a specific instance or illustration of a concept, idea, or situation?
+Is there a clear demonstration or explanation of how something should be done, described, or approached within the prompt?
+Are there any comparisons or analogies used to provide context or a better understanding of the main subject?
+Does the prompt mention any particular person, event, or object that serves to illustrate the main subject or topic?
+does this prompt contain an example?
+
+---> No
